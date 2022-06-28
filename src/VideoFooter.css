@@ -17,3 +17,9 @@
 .videoFooter_text > h3 {
     padding-bottom: 20px;
 }
+
+.videoFooter_ticker > .ticker {
+    height: fit-content;
+    margin-left: 30px;
+    width: 60%;
+}
