@@ -28,11 +28,11 @@ const handleVideoPress = () => {
         className="video_player"
         loop
         ref={videoRef}
-        src="https://v16m-webapp.tiktokcdn-us.com/0788034cdf20881700254f3a29033929/62bb521d/video/tos/useast5/tos-useast5-pve-0068-tx/76094cc840ab472db0b3c95037cec2e1/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C0%7C0&br=2778&bt=1389&cs=0&ds=3&ft=ebtHKH-qMyq8ZM-z8we2Ni5yfl7Gb&mime_type=video_mp4&qs=0&rc=NTc0OTg0aDw0ZTdlOjtpOUBpanh3bTM6ZjNvPDMzZzczNEAuL140MTE2NjAxMTBeLV5eYSNhMWpicjRvYzJgLS1kMS9zcw%3D%3D&l=20220628131006010004004007735002028030A4F5C"></video>
+        src="https://v16m-webapp.tiktokcdn-us.com/92b145184286a9e754aa01e5164ce6a6/62bb65ae/video/tos/useast5/tos-useast5-ve-0068c004-tx/d2af0a8f5d9b49bca8165e7c0443349b/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C0%7C0&br=560&bt=280&cs=0&ds=3&ft=ebtHKH-qMyq8Zd.B8we2N5Cyfl7Gb&mime_type=video_mp4&qs=0&rc=NWY1ZWRmNGY7aDg5ZDg5N0Bpam85eTs6Zjp2PDMzZzczNEA2NTU0NDVhXl8xMzYuLjUzYSMzZ2E2cjRvNTNgLS1kMS9zcw%3D%3D&l=202206281433400100040050060030000E16E45A"></video>
         
         <VideoFooter />
 
-        
+
     </div>
 
 
