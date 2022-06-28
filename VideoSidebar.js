@@ -6,7 +6,7 @@ function VideoSidebar() {
     <div className="videoSidebar">
 
     </div>
-  )
+  );
 }
 
 export default VideoSidebar
